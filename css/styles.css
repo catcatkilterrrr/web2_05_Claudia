@@ -1,0 +1,17 @@
+body {
+    font-size: 48px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-align: center;
+}
+#ctls {
+    margin: auto;
+    padding:0px 500px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+button {
+    border: 0px;
+    font-size: 48px;   
+}
